@@ -20,9 +20,13 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IGRSTANA&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-<p align="center">
+<div align="center">
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igrstana&bg_color=292929&color=80ff00&line=ff0000&point=f4ff61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://github-profile-trophy.vercel.app/?username=IGRSTANA&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
+  
+</div>
 
 
 <h2 align="center">Quer entrar em contato comigo ?</h2>
