@@ -39,7 +39,20 @@
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:igordesantana@live.com)
 </div>
 
-![snake gif](https://github.com/IGRSTANA/IGRSTANA/blob/output/github-contribution-grid-snake.svg)
+<picture align = "center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/IGRSTANA/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/IGRSTANA/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/IGRSTANA/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
